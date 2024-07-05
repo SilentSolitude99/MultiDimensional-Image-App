@@ -13,7 +13,7 @@ Image Upload and Save: Easily upload images for processing and save the output i
 Installation
 Ensure you have MATLAB installed on your system.
 Clone this repository to your local machine:
-git clone https://github.com/yourusername/Tayyip-Ahmet-Bakar.git
+git clone https://github.com/SilentSolitude99/Tayyip-Ahmet-Bakar.git
 Navigate to the project directory:
 cd Tayyip-Ahmet-Bakar
 Run the app from MATLAB.
